@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>gfx/cancel.png</file>
+        <file>gfx/redo.png</file>
+        <file>gfx/undo.png</file>
+        <file>gfx/go.png</file>
+    </qresource>
+</RCC>
